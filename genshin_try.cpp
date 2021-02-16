@@ -9,6 +9,7 @@ genshin_try::genshin_try(QWidget *parent)
     ui->frame->setVisible(true);
     ui->frame_2->setVisible(false);
     ui->frame_3->setVisible(false);
+    ui->frame_4->setVisible(false);
 }
 
 genshin_try::~genshin_try()
