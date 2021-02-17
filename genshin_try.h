@@ -27,6 +27,8 @@ private slots:
 
     void on_pushButton_47_clicked();
 
+    void on_pushButton_clicked();
+
 private:
     Ui::genshin_try *ui;
 };

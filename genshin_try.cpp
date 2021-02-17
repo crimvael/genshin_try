@@ -10,6 +10,9 @@ genshin_try::genshin_try(QWidget *parent)
     ui->frame_2->setVisible(false);
     ui->frame_3->setVisible(false);
     ui->tabWidget->setVisible(false);
+    ui->pushButton->setVisible(false);
+    ui->tableWidget->horizontalHeader()->setSectionResizeMode(QHeaderView::Stretch);
+    ui->tableWidget->verticalHeader()->setSectionResizeMode(QHeaderView::Stretch);
 }
 
 genshin_try::~genshin_try()
@@ -57,4 +60,12 @@ void genshin_try::on_pushButton_47_clicked()
     ui->frame_2->setVisible(false);
     ui->frame_3->setVisible(false);
     ui->tabWidget->setVisible(true);
+    ui->pushButton->setVisible(true);
+}
+
+void genshin_try::on_pushButton_clicked()
+{
+    ui->frame_2->setVisible(true);
+    ui->tabWidget->setVisible(false);
+    ui->pushButton->setVisible(false);
 }
