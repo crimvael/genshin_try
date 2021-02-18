@@ -200,6 +200,13 @@
        <height>25</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
      <property name="text">
       <string>Albedo</string>
      </property>
@@ -212,6 +219,13 @@
        <width>191</width>
        <height>25</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
      </property>
      <property name="text">
       <string>Amber</string>
@@ -226,6 +240,13 @@
        <height>25</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
      <property name="text">
       <string>Barbara</string>
      </property>
@@ -238,6 +259,13 @@
        <width>191</width>
        <height>25</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
      </property>
      <property name="text">
       <string>Beidou</string>
@@ -252,6 +280,13 @@
        <height>25</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
      <property name="text">
       <string>Bennet</string>
      </property>
@@ -264,6 +299,13 @@
        <width>191</width>
        <height>25</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
      </property>
      <property name="text">
       <string>Chongyun</string>
@@ -368,6 +410,13 @@
        <height>25</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
      <property name="text">
       <string>Diluc</string>
      </property>
@@ -380,6 +429,13 @@
        <width>191</width>
        <height>25</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
      </property>
      <property name="text">
       <string>Diona</string>
@@ -394,6 +450,13 @@
        <height>25</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
      <property name="text">
       <string>Fischl</string>
      </property>
@@ -406,6 +469,13 @@
        <width>191</width>
        <height>25</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
      </property>
      <property name="text">
       <string>Ganyu</string>
@@ -420,6 +490,13 @@
        <height>25</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
      <property name="text">
       <string>Hu Tao</string>
      </property>
@@ -432,6 +509,13 @@
        <width>191</width>
        <height>25</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
      </property>
      <property name="text">
       <string>Jean</string>
@@ -446,6 +530,13 @@
        <height>25</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
      <property name="text">
       <string>Kaeya</string>
      </property>
@@ -458,6 +549,13 @@
        <width>191</width>
        <height>25</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
      </property>
      <property name="text">
       <string>Keqing</string>
@@ -472,6 +570,13 @@
        <height>25</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
      <property name="text">
       <string>Klee</string>
      </property>
@@ -485,6 +590,13 @@
        <height>25</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
      <property name="text">
       <string>Lisa</string>
      </property>
@@ -497,6 +609,13 @@
        <width>191</width>
        <height>25</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
      </property>
      <property name="text">
       <string>Mona</string>
@@ -649,6 +768,13 @@
        <height>25</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
      <property name="text">
       <string>Ningguang</string>
      </property>
@@ -661,6 +787,13 @@
        <width>191</width>
        <height>25</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
      </property>
      <property name="text">
       <string>Noelle</string>
@@ -675,6 +808,13 @@
        <height>25</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
      <property name="text">
       <string>Qiqi</string>
      </property>
@@ -687,6 +827,13 @@
        <width>191</width>
        <height>25</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
      </property>
      <property name="text">
       <string>Razor</string>
@@ -701,6 +848,13 @@
        <height>25</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
      <property name="text">
       <string>Sucrose</string>
      </property>
@@ -713,6 +867,13 @@
        <width>191</width>
        <height>25</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
      </property>
      <property name="text">
       <string>Tartaglia</string>
@@ -777,6 +938,13 @@
        <height>25</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
      <property name="text">
       <string>Venti</string>
      </property>
@@ -789,6 +957,13 @@
        <width>191</width>
        <height>25</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
      </property>
      <property name="text">
       <string>Xiangling</string>
@@ -803,6 +978,13 @@
        <height>25</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
      <property name="text">
       <string>Xiao</string>
      </property>
@@ -815,6 +997,13 @@
        <width>191</width>
        <height>25</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
      </property>
      <property name="text">
       <string>Xingqiu</string>
@@ -829,6 +1018,13 @@
        <height>25</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
      <property name="text">
       <string>Xinyan</string>
      </property>
@@ -842,6 +1038,13 @@
        <height>25</height>
       </rect>
      </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
      <property name="text">
       <string>Zhongli</string>
      </property>
@@ -854,6 +1057,13 @@
        <width>191</width>
        <height>25</height>
       </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
      </property>
      <property name="text">
       <string>Lumine</string>
@@ -919,7 +1129,7 @@
     </property>
     <widget class="QWidget" name="tab_3">
      <attribute name="title">
-      <string>Ascension</string>
+      <string>Stats</string>
      </attribute>
      <widget class="QTableWidget" name="tableWidget">
       <property name="enabled">
@@ -979,6 +1189,15 @@
        <bool>false</bool>
       </attribute>
       <attribute name="horizontalHeaderStretchLastSection">
+       <bool>false</bool>
+      </attribute>
+      <attribute name="verticalHeaderVisible">
+       <bool>true</bool>
+      </attribute>
+      <attribute name="verticalHeaderCascadingSectionResizes">
+       <bool>false</bool>
+      </attribute>
+      <attribute name="verticalHeaderShowSortIndicator" stdset="0">
        <bool>false</bool>
       </attribute>
       <attribute name="verticalHeaderStretchLastSection">
@@ -1284,7 +1503,8 @@
         <set>AlignCenter</set>
        </property>
        <property name="icon">
-        <iconset theme="aaa"/>
+        <iconset theme="aaa">
+         <normaloff>.</normaloff>.</iconset>
        </property>
       </column>
       <column>
@@ -1335,6 +1555,21 @@
       <column>
        <property name="text">
         <string>CRIT DMG</string>
+       </property>
+       <property name="font">
+        <font>
+         <pointsize>13</pointsize>
+         <weight>75</weight>
+         <bold>true</bold>
+        </font>
+       </property>
+       <property name="textAlignment">
+        <set>AlignCenter</set>
+       </property>
+      </column>
+      <column>
+       <property name="text">
+        <string>Ascension Bonus</string>
        </property>
        <property name="font">
         <font>
@@ -1428,6 +1663,49 @@
      <attribute name="title">
       <string>Talent</string>
      </attribute>
+     <widget class="QTabWidget" name="tabWidget_2">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>10</y>
+        <width>1205</width>
+        <height>560</height>
+       </rect>
+      </property>
+      <property name="currentIndex">
+       <number>0</number>
+      </property>
+      <widget class="QWidget" name="tab">
+       <attribute name="title">
+        <string>Normal Attack</string>
+       </attribute>
+      </widget>
+      <widget class="QWidget" name="tab_2">
+       <attribute name="title">
+        <string>Elemental Skill (E)</string>
+       </attribute>
+      </widget>
+      <widget class="QWidget" name="tab_6">
+       <attribute name="title">
+        <string>Elemental Burst (Q)</string>
+       </attribute>
+      </widget>
+      <widget class="QWidget" name="tab_7">
+       <attribute name="title">
+        <string>Passives</string>
+       </attribute>
+      </widget>
+      <widget class="QWidget" name="tab_8">
+       <attribute name="title">
+        <string>Constellations</string>
+       </attribute>
+      </widget>
+      <widget class="QWidget" name="tab_9">
+       <attribute name="title">
+        <string>Materials</string>
+       </attribute>
+      </widget>
+     </widget>
     </widget>
     <widget class="QWidget" name="tab_5">
      <attribute name="title">
@@ -1451,8 +1729,8 @@
    <zorder>frame</zorder>
    <zorder>frame_3</zorder>
    <zorder>frame_2</zorder>
-   <zorder>tabWidget</zorder>
    <zorder>pushButton</zorder>
+   <zorder>tabWidget</zorder>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
