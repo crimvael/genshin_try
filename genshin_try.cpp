@@ -1,5 +1,6 @@
 #include "genshin_try.h"
 #include "ui_genshin_try.h"
+#include "stats.h"
 
 genshin_try::genshin_try(QWidget *parent)
     : QMainWindow(parent)
@@ -56,11 +57,7 @@ void genshin_try::on_pushButton_84_clicked()
 
 void genshin_try::on_pushButton_47_clicked()
 {
-    ui->frame->setVisible(false);
-    ui->frame_2->setVisible(false);
-    ui->frame_3->setVisible(false);
-    ui->tabWidget->setVisible(true);
-    ui->pushButton->setVisible(true);
+    char_select("albedo");
 }
 
 void genshin_try::on_pushButton_clicked()
@@ -68,4 +65,17 @@ void genshin_try::on_pushButton_clicked()
     ui->frame_2->setVisible(true);
     ui->tabWidget->setVisible(false);
     ui->pushButton->setVisible(false);
+}
+
+void genshin_try::char_select(QString c)
+{
+    ui->frame->setVisible(false);
+    ui->frame_2->setVisible(false);
+    ui->frame_3->setVisible(false);
+    ui->tabWidget->setVisible(true);
+    ui->pushButton->setVisible(true);
+
+    //for (int i=0; i<base_hp.size() ;i++ ) {
+        ui->tableWidget->item(0,0)->setText("ssss");
+    //}
 }

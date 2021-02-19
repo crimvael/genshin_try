@@ -13,7 +13,8 @@ SOURCES += \
     genshin_try.cpp
 
 HEADERS += \
-    genshin_try.h
+    genshin_try.h \
+    stats.h
 
 FORMS += \
     genshin_try.ui
