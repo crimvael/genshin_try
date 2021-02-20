@@ -16,7 +16,7 @@ public:
     ~genshin_try();
 
 private slots:
-    void char_select(QString);
+    void char_select(int);
     void on_pushButton_45_clicked();
     void on_pushButton_66_clicked();
 

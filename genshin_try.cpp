@@ -57,7 +57,7 @@ void genshin_try::on_pushButton_84_clicked()
 
 void genshin_try::on_pushButton_47_clicked()
 {
-    char_select("albedo");
+    char_select(0);
 }
 
 void genshin_try::on_pushButton_clicked()
@@ -67,15 +67,43 @@ void genshin_try::on_pushButton_clicked()
     ui->pushButton->setVisible(false);
 }
 
-void genshin_try::char_select(QString c)
+void genshin_try::char_select(int c)
 {
     ui->frame->setVisible(false);
     ui->frame_2->setVisible(false);
     ui->frame_3->setVisible(false);
     ui->tabWidget->setVisible(true);
     ui->pushButton->setVisible(true);
+    switch (c) {
+        case 0:
+            for (int i=0; i < ui->tableWidget->rowCount()-1 ; i++ ) {
+            QTableWidgetItem *item = new QTableWidgetItem(albedo_base_hp[i]);
+            item->setTextAlignment(Qt::AlignCenter);
+            ui->tableWidget->setItem(i, 0, item);
 
-    //for (int i=0; i<base_hp.size() ;i++ ) {
-        ui->tableWidget->item(0,0)->setText("ssss");
-    //}
+            QTableWidgetItem *item2 = new QTableWidgetItem(albedo_base_atk[i]);
+            item2->setTextAlignment(Qt::AlignCenter);
+            ui->tableWidget->setItem(i, 1, item2);
+
+            QTableWidgetItem *item3 = new QTableWidgetItem(albedo_base_def[i]);
+            item3->setTextAlignment(Qt::AlignCenter);
+            ui->tableWidget->setItem(i, 2, item3);
+
+            QTableWidgetItem *item4 = new QTableWidgetItem(albedo_Geo_DMG[i]);
+            item4->setTextAlignment(Qt::AlignCenter);
+            ui->tableWidget->setItem(i, 3, item4);
+
+            QTableWidgetItem *item5 = new QTableWidgetItem(albedo_Crit_Rate[i]);
+            item5->setTextAlignment(Qt::AlignCenter);
+            ui->tableWidget->setItem(i, 4, item5);
+
+            QTableWidgetItem *item6 = new QTableWidgetItem(albedo_Crit_DMG[i]);
+            item6->setTextAlignment(Qt::AlignCenter);
+            ui->tableWidget->setItem(i, 5, item6);
+        }
+        break;
+
+        case 1:
+        break;
+   }
 }
