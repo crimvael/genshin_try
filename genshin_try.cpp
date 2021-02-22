@@ -680,72 +680,72 @@ void genshin_try::char_select(int c)
 
 void genshin_try::on_pushButton_48_clicked()
 {
-    char_select(2);
+    char_select(1);
 }
 
 void genshin_try::on_pushButton_49_clicked()
 {
-    char_select(3);
+    char_select(2);
 }
 
 void genshin_try::on_pushButton_50_clicked()
 {
-    char_select(4);
+    char_select(3);
 }
 
 void genshin_try::on_pushButton_51_clicked()
 {
-    char_select(5);
+    char_select(4);
 }
 
 void genshin_try::on_pushButton_52_clicked()
 {
-    char_select(6);
+    char_select(5);
 }
 
 void genshin_try::on_pushButton_53_clicked()
 {
-    char_select(7);
+    char_select(6);
 }
 
 void genshin_try::on_pushButton_54_clicked()
 {
-    char_select(8);
+    char_select(7);
 }
 
 void genshin_try::on_pushButton_55_clicked()
 {
-    char_select(9);
+    char_select(8);
 }
 
 void genshin_try::on_pushButton_56_clicked()
 {
-    char_select(10);
+    char_select(9);
 }
 
 void genshin_try::on_pushButton_57_clicked()
 {
-    char_select(11);
+    char_select(10);
 }
 
 void genshin_try::on_pushButton_58_clicked()
 {
-    char_select(12);
+    char_select(11);
 }
 
 void genshin_try::on_pushButton_59_clicked()
 {
-    char_select(13);
+    char_select(12);
 }
 
 void genshin_try::on_pushButton_60_clicked()
 {
-    char_select(14);
+    char_select(13);
 }
 
 void genshin_try::on_pushButton_61_clicked()
 {
-    char_select(0);
+    char_select(14);
 }
 
 void genshin_try::on_pushButton_62_clicked()

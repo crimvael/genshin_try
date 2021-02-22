@@ -1177,7 +1177,7 @@
        <bool>false</bool>
       </property>
       <attribute name="horizontalHeaderVisible">
-       <bool>false</bool>
+       <bool>true</bool>
       </attribute>
       <attribute name="horizontalHeaderCascadingSectionResizes">
        <bool>false</bool>
@@ -1192,7 +1192,7 @@
        <bool>false</bool>
       </attribute>
       <attribute name="verticalHeaderVisible">
-       <bool>false</bool>
+       <bool>true</bool>
       </attribute>
       <attribute name="verticalHeaderCascadingSectionResizes">
        <bool>false</bool>
@@ -2700,11 +2700,11 @@
      <string>Back</string>
     </property>
    </widget>
+   <zorder>frame_2</zorder>
+   <zorder>frame_3</zorder>
    <zorder>frame</zorder>
    <zorder>pushButton</zorder>
    <zorder>tabWidget</zorder>
-   <zorder>frame_2</zorder>
-   <zorder>frame_3</zorder>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
