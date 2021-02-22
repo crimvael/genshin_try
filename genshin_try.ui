@@ -1177,7 +1177,7 @@
        <bool>false</bool>
       </property>
       <attribute name="horizontalHeaderVisible">
-       <bool>true</bool>
+       <bool>false</bool>
       </attribute>
       <attribute name="horizontalHeaderCascadingSectionResizes">
        <bool>false</bool>
@@ -1192,7 +1192,7 @@
        <bool>false</bool>
       </attribute>
       <attribute name="verticalHeaderVisible">
-       <bool>true</bool>
+       <bool>false</bool>
       </attribute>
       <attribute name="verticalHeaderCascadingSectionResizes">
        <bool>false</bool>
@@ -1494,36 +1494,6 @@
       </column>
       <column>
        <property name="text">
-        <string>CRIT Rate</string>
-       </property>
-       <property name="font">
-        <font>
-         <pointsize>13</pointsize>
-         <weight>75</weight>
-         <bold>true</bold>
-        </font>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </column>
-      <column>
-       <property name="text">
-        <string>CRIT DMG</string>
-       </property>
-       <property name="font">
-        <font>
-         <pointsize>13</pointsize>
-         <weight>75</weight>
-         <bold>true</bold>
-        </font>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </column>
-      <column>
-       <property name="text">
         <string>Books</string>
        </property>
        <property name="font">
@@ -1661,22 +1631,6 @@
         <set>AlignCenter</set>
        </property>
       </item>
-      <item row="0" column="9">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="0" column="10">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
       <item row="1" column="0">
        <property name="text">
         <string/>
@@ -1742,22 +1696,6 @@
        </property>
       </item>
       <item row="1" column="8">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="1" column="9">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="1" column="10">
        <property name="text">
         <string/>
        </property>
@@ -1837,22 +1775,6 @@
         <set>AlignCenter</set>
        </property>
       </item>
-      <item row="2" column="9">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="2" column="10">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
       <item row="3" column="0">
        <property name="text">
         <string/>
@@ -1918,22 +1840,6 @@
        </property>
       </item>
       <item row="3" column="8">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="3" column="9">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="3" column="10">
        <property name="text">
         <string/>
        </property>
@@ -2013,22 +1919,6 @@
         <set>AlignCenter</set>
        </property>
       </item>
-      <item row="4" column="9">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="4" column="10">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
       <item row="5" column="0">
        <property name="text">
         <string/>
@@ -2101,22 +1991,6 @@
         <set>AlignCenter</set>
        </property>
       </item>
-      <item row="5" column="9">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="5" column="10">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
       <item row="6" column="1">
        <property name="text">
         <string/>
@@ -2174,22 +2048,6 @@
        </property>
       </item>
       <item row="6" column="8">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="6" column="9">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="6" column="10">
        <property name="text">
         <string/>
        </property>
@@ -2269,22 +2127,6 @@
         <set>AlignCenter</set>
        </property>
       </item>
-      <item row="7" column="9">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="7" column="10">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
       <item row="8" column="0">
        <property name="text">
         <string/>
@@ -2350,22 +2192,6 @@
        </property>
       </item>
       <item row="8" column="8">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="8" column="9">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="8" column="10">
        <property name="text">
         <string/>
        </property>
@@ -2445,22 +2271,6 @@
         <set>AlignCenter</set>
        </property>
       </item>
-      <item row="9" column="9">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="9" column="10">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
       <item row="10" column="0">
        <property name="text">
         <string/>
@@ -2526,22 +2336,6 @@
        </property>
       </item>
       <item row="10" column="8">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="10" column="9">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="10" column="10">
        <property name="text">
         <string/>
        </property>
@@ -2621,22 +2415,6 @@
         <set>AlignCenter</set>
        </property>
       </item>
-      <item row="11" column="9">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="11" column="10">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
       <item row="12" column="0">
        <property name="text">
         <string/>
@@ -2702,22 +2480,6 @@
        </property>
       </item>
       <item row="12" column="8">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="12" column="9">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="12" column="10">
        <property name="text">
         <string/>
        </property>
@@ -2797,22 +2559,6 @@
         <set>AlignCenter</set>
        </property>
       </item>
-      <item row="13" column="9">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="13" column="10">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
       <item row="14" column="0">
        <property name="text">
         <string/>
@@ -2878,22 +2624,6 @@
        </property>
       </item>
       <item row="14" column="8">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="14" column="9">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="textAlignment">
-        <set>AlignCenter</set>
-       </property>
-      </item>
-      <item row="14" column="10">
        <property name="text">
         <string/>
        </property>
@@ -2971,10 +2701,10 @@
     </property>
    </widget>
    <zorder>frame</zorder>
-   <zorder>frame_3</zorder>
-   <zorder>frame_2</zorder>
    <zorder>pushButton</zorder>
    <zorder>tabWidget</zorder>
+   <zorder>frame_2</zorder>
+   <zorder>frame_3</zorder>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
