@@ -89,6 +89,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("GEO DMG Bonus");
             QTableWidgetItem *item4 = new QTableWidgetItem(albedo_Geo_DMG[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -109,6 +110,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("ATK Bonus");
             QTableWidgetItem *item4 = new QTableWidgetItem(amber_ATK[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -129,6 +131,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("HP Bonus");
             QTableWidgetItem *item4 = new QTableWidgetItem(barbara_HP[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -149,6 +152,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("ELECTRO DMG Bonus");
             QTableWidgetItem *item4 = new QTableWidgetItem(beidou_Electro_DMG[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -169,6 +173,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("Energy Recharge");
             QTableWidgetItem *item4 = new QTableWidgetItem(bennet_Energy_Recharge[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -189,6 +194,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("ATK Bonus");
             QTableWidgetItem *item4 = new QTableWidgetItem(chongyun_ATK[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -209,6 +215,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("Crit Rate");
             QTableWidgetItem *item4 = new QTableWidgetItem(diluc_Crit_Rate[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -229,6 +236,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("CRYO DMG Bonus");
             QTableWidgetItem *item4 = new QTableWidgetItem(diona_Cryo_DMG[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -249,6 +257,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("ATK");
             QTableWidgetItem *item4 = new QTableWidgetItem(fischl_ATK[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -269,6 +278,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("Crit DMG");
             QTableWidgetItem *item4 = new QTableWidgetItem(ganyu_Crit_DMG[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -289,6 +299,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("Crit DMG");
             QTableWidgetItem *item4 = new QTableWidgetItem(hu_tao_Crit_DMG[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -309,6 +320,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("Healing Bonus");
             QTableWidgetItem *item4 = new QTableWidgetItem(jean_Healing_Bonus[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -329,6 +341,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("Energy Recharge");
             QTableWidgetItem *item4 = new QTableWidgetItem(kaeya_Energy_Recharge[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -349,6 +362,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("Crit DMG");
             QTableWidgetItem *item4 = new QTableWidgetItem(keqing_Crit_DMG[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -369,6 +383,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("PYRO DMG Bonus");
             QTableWidgetItem *item4 = new QTableWidgetItem(klee_Pyro_DMG[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -389,6 +404,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("Elemental Mastery");
             QTableWidgetItem *item4 = new QTableWidgetItem(lisa_Elemental_Mastery[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -409,6 +425,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("Energy Recharge");
             QTableWidgetItem *item4 = new QTableWidgetItem(mona_Energy_Recharge[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -429,6 +446,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("GEO DMG Bonus");
             QTableWidgetItem *item4 = new QTableWidgetItem(ningguang_Geo_DMG[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -449,6 +467,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("DEF Bonus");
             QTableWidgetItem *item4 = new QTableWidgetItem(noelle_DEF[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -469,6 +488,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("Healing Bonus");
             QTableWidgetItem *item4 = new QTableWidgetItem(qiqi_Healing_Bonus[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -489,6 +509,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("Physical DMG");
             QTableWidgetItem *item4 = new QTableWidgetItem(razor_Phys_DMG[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -509,6 +530,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("ANEMO DMG Bonus");
             QTableWidgetItem *item4 = new QTableWidgetItem(sucrose_Anemo_DMG[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -529,6 +551,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("HYDRO DMG Bonus");
             QTableWidgetItem *item4 = new QTableWidgetItem(tartaglia_Hydro_DMG[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -549,6 +572,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("Energy Recharge");
             QTableWidgetItem *item4 = new QTableWidgetItem(venti_Energy_Recharge[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -569,6 +593,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("Elemental Mastery");
             QTableWidgetItem *item4 = new QTableWidgetItem(xiangling_Elemental_Mastery[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -589,6 +614,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("Crit Rate");
             QTableWidgetItem *item4 = new QTableWidgetItem(xiao_Crit_Rate[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -609,6 +635,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("ATK Bonus");
             QTableWidgetItem *item4 = new QTableWidgetItem(xingqiu_ATK[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -629,6 +656,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("ATK Bonus");
             QTableWidgetItem *item4 = new QTableWidgetItem(xinyan_ATK[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -649,6 +677,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("GEO DMG Bonus");
             QTableWidgetItem *item4 = new QTableWidgetItem(zhongli_Geo_DMG[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
@@ -669,6 +698,7 @@ void genshin_try::char_select(int c)
             item3->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 2, item3);
 
+            ui->tableWidget->horizontalHeaderItem(3)->setText("ATK Bonus");
             QTableWidgetItem *item4 = new QTableWidgetItem(lumine_ATK[i]);
             item4->setTextAlignment(Qt::AlignCenter);
             ui->tableWidget->setItem(i, 3, item4);
