@@ -10,7 +10,8 @@ CONFIG += c++11
 
 SOURCES += \
     main.cpp \
-    genshin_try.cpp
+    genshin_try.cpp \
+    table_fill.cpp
 
 HEADERS += \
     genshin_try.h \
